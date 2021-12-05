@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoushikLK
 - 👀 I’m interested in node js,javaScript,React,ReactNative.
-- 🌱 I’m currently learning React,ReactNative.
+- 🌱 I’m currently learning D3 js.
 - 💞️ I’m looking to collaborate on FullStack Web development .
 - 📫 You can reach me loushikkumargiri@gmail.com
 
