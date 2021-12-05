@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoushikLK
+- 👋 Hi, I’m @Loushik self-taught full stack developer.
 - 👀 I’m interested in node js,javaScript,React,ReactNative.
 - 🌱 I’m currently learning D3 js.
 - 💞️ I’m looking to collaborate on FullStack Web development .
