@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack web development**
 
-- 👨‍💻 All of my projects are available at [lkcodes.vercel.app](https://lkcodes.vercel.app)
+- 👨‍💻 All of my projects are available at [loushik.vercel.app](https://loushik.vercel.app)
 
 - 💬 Ask me about **react, node js**
 
